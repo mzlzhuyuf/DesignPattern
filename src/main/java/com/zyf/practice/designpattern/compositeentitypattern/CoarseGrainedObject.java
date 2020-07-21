@@ -17,6 +17,6 @@ public class CoarseGrainedObject {
     }
 
     public String[] getData() {
-        return new String[] {do1.getData(), do2.getData()};
+        return new String[]{do1.getData(), do2.getData()};
     }
 }

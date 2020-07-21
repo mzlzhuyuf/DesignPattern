@@ -9,6 +9,7 @@ package com.zyf.practice.designpattern.mediatorpattern;
  */
 public class User {
     private String name;
+
     public String getName() {
         return name;
     }

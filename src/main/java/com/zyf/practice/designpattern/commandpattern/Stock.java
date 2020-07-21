@@ -17,6 +17,6 @@ public class Stock {
     }
 
     public void sell() {
-        System.out.println("Stock [ Name: " + name + ", Quantity: " +quantity + " ] sold");
+        System.out.println("Stock [ Name: " + name + ", Quantity: " + quantity + " ] sold");
     }
 }

@@ -9,7 +9,9 @@ package com.zyf.practice.designpattern.templatepattern;
  */
 public abstract class Game {
     abstract void initialize();
+
     abstract void startPlay();
+
     abstract void endPlay();
 
     //模板

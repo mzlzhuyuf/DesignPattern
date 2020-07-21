@@ -16,7 +16,7 @@ public abstract class AbstractLogger {
     //责任链中的下一个元素
     protected AbstractLogger nextLogger;
 
-    public void setNextLogger (AbstractLogger nextLogger) {
+    public void setNextLogger(AbstractLogger nextLogger) {
         this.nextLogger = nextLogger;
     }
 
